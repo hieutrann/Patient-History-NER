@@ -1,4 +1,4 @@
-This repository contain the source code for the paper: Extracting Patient History from Clinical Text: A Comparative Study of Encoder-Only Clinical Pretrained Language Models
+This repository contain the source code for the paper: **Extracting Patient History from Clinical Text: A Comparative Study of Encoder-Only Clinical Pretrained Language Models**
 
 - The supplementary material for the paper: Supplementary Material.pdf
 
@@ -18,6 +18,8 @@ This repository contain the source code for the paper: Extracting Patient Histor
   + CLAMP contains CLMs with CLAMP output support
   + train.py and cross_evaluation.py to train and evaluate the model(s)
   + The model .bin file are not uploaded because of significant storage consumption
+
+- Please clone the repository and install all dependencies listed in requirements.txt within a virtual environment.
 
 Medical transcription samples and reports used as our training and benchmark dataset are available on [https://www.mtsamples.com](https://www.mtsamples.com )
 
