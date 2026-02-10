@@ -1,4 +1,4 @@
-This repository contain the source code for the paper: Extracting Patient History from Clinical Text: A Comparative Study of Encoder-Only Clinical Pretrained Language Models
+This repository contain the source code for the paper: **Extracting Patient History from Clinical Text: A Comparative Study of Encoder-Only Clinical Pretrained Language Models**
 
 - The supplementary material for the paper: Supplementary Material.pdf
 
